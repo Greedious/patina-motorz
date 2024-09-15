@@ -1,10 +1,11 @@
 # Patina Motorz ✨🚘
 
+<img src="assets/patina-logo.png" alt="Project Screenshot" width="475">
+
 # Description
 
 **_Patina Motorz_** is a VIP Cars Classifieds Platform dedicated to listing exclusive vehicles for discerning enthusiasts. The platform offers a range of features tailored to the luxury car market, including dynamic listing options, multiple user types such as personal, collector, and dealer profiles, package-based advertising, car reels, and integrated chat functionalities. With Patina Motorz, users can seamlessly buy and sell high-end vehicles, enhancing their experience in the world of luxury automobiles.
 
-<img src="assets/patina-logo.png" alt="Project Screenshot" width="475">
 
 ## Responsibilites
 
@@ -31,7 +32,6 @@
 
 ## Some App Screenshots
 
-  <img src="assets/patina-logo.png" alt="Project Screenshot" width="280">
   <img src="assets/sign-up.png" alt="Project Screenshot" width="280">
   <img src="assets/homepage.png" alt="Project Screenshot" width="280">
   <img src="assets/reels.png" alt="Project Screenshot" width="280">
