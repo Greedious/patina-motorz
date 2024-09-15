@@ -1,6 +1,8 @@
 # Patina Motorz ✨🚘
 
+<p align="center">
 <img src="assets/patina-logo.png" alt="Project Screenshot" width="475">
+</p>
 
 # Description
 
