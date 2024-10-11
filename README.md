@@ -32,14 +32,5 @@
   - Auto scaling.
   - Elastic Beanstalk.
 
-## Some App Screenshots
-
-  <img src="assets/sign-up.png" alt="Project Screenshot" width="280">
-  <img src="assets/homepage.png" alt="Project Screenshot" width="280">
-  <img src="assets/reels.png" alt="Project Screenshot" width="280">
-  <img src="assets/sell-car.png" alt="Project Screenshot" width="280">
-  <img src="assets/my-ads.png" alt="Project Screenshot" width="280">
-  <img src="assets/ad-details.png" alt="Project Screenshot" width="280">
-  <img src="assets/dealer.png" alt="Project Screenshot" width="280">
-  <img src="assets/filter-cars.png" alt="Project Screenshot" width="280">
-  <img src="assets/add-car.png" alt="Project Screenshot" width="280">
+## Preview
+Cannot be shared due to Non-Disclosure Agreement with the client.
